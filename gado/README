@@ -1,0 +1,6 @@
+README
+======
+
+The subdirectories "ArduinoFirmware" and "Gado2" should be taken from Project Gado,
+from here:
+      https://github.com/ProjectGado/Project-Gado/tree/master/linux_src
